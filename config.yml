@@ -1,0 +1,8 @@
+baseURL: https://blog.toposcope.co/
+languageCode: fr-fr
+title: "Le Blog Toposcope"
+
+theme: "PaperMod"
+
+params:
+    author: Hugo GPT
