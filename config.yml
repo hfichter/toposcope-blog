@@ -4,5 +4,11 @@ title: "Le Blog Toposcope"
 
 theme: "PaperMod"
 
+menu:
+    main:
+        - name: Toposcope.co
+          url: https://toposcope.co
+          weight: 5
+
 params:
     author: Hugo et son GPT
