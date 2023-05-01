@@ -12,3 +12,5 @@ menu:
 
 params:
     author: Hugo (et son GPT)
+    ShowReadingTime: true
+    DateFormat: "2/1/2006"
