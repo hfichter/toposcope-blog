@@ -14,3 +14,5 @@ params:
     author: Hugo
     ShowReadingTime: true
     DateFormat: "2/1/2006"
+
+    env: production
