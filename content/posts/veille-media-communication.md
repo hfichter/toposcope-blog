@@ -7,7 +7,6 @@ TocOpen: true
 disableShare: false
 cover:
     image: posts/woman-screen.jpg
-    relative: false
 ---
 
 ## Introduction
