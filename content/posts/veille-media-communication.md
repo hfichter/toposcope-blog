@@ -3,8 +3,11 @@ title: "La veille médiatique démystifiée : comprendre les bases pour optimise
 date: 2023-05-01T22:22:54+02:00
 draft: false
 showToc: true
-TocOpen: false
+TocOpen: true
 disableShare: false
+cover:
+    image: posts/woman-screen.jpg
+    relative: false
 ---
 
 ## Introduction
