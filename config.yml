@@ -6,6 +6,8 @@ title: "Le Blog Toposcope"
 
 theme: "PaperMod"
 
+googleAnalytics: "G-FEMQLX2ERG"
+
 menu:
     main:
         - name: Toposcope.co
