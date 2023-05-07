@@ -11,6 +11,6 @@ menu:
           weight: 5
 
 params:
-    author: Hugo (et son GPT)
+    author: Hugo
     ShowReadingTime: true
     DateFormat: "2/1/2006"
