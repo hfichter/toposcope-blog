@@ -15,6 +15,6 @@ menu:
 params:
     author: Hugo
     ShowReadingTime: true
-    DateFormat: "2/1/2006"
+    DateFormat: "2 January 2006" # "2/1/2006"
 
     env: production
