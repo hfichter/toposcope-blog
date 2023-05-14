@@ -1,0 +1,27 @@
+languageCode: fr
+defaultContentLanguage: fr
+baseURL: https://blog.toposcope.co/
+
+title: "Le Blog Toposcope"
+
+theme: "PaperMod"
+
+menu:
+    main:
+        - name: Toposcope.co
+          url: https://toposcope.co
+          weight: 5
+
+params:
+    author: Hugo
+    ShowReadingTime: true
+    DateFormat: "2 January 2006" # "2/1/2006"
+
+
+    assets:
+        favicon: "/assets/favicon.png"
+        favicon32x32: "/assets/favicon32x32.png"
+        favicon16x16: "/assets/favicon16x16.png"
+        apple_touch_icon: "/assets/favicon.png"
+        safari_pinned_tab: "/assets/favicon.png"
+
